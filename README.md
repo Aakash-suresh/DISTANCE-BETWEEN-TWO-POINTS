@@ -10,10 +10,15 @@ Substitute the values in the distance formula  ![formula](/formula.jpg)
 ### Step 4: 
 ### Step 5: 
 ### PROGRAM:
-  
-
-
+~~~  
+import math
+x=[10,6]
+y=[4,2]
+dist=math.sqrt(((x[0]-x[1])**2)+((y[0]+y[1])**2))
+print("{:.2f}".format(dist))
+~~~
 ### OUTPUT:
 
+![Output 1](AAA1.png)
 
 ### RESULT:
