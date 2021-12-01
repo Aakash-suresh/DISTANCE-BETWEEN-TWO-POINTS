@@ -22,3 +22,4 @@ print("{:.2f}".format(dist))
 ![Output 1](AAA1.png)
 
 ### RESULT:
+Thus the python program is executed to find the distance of two 2 points
